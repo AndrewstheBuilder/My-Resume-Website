@@ -1,5 +1,5 @@
 # My Resume Website
-https://andrewsthebuilder.github.io/andrewspeter.github.io/
+https://andrewsthebuilder.github.io/My-Resume-Website/
 
 ## TODO
 1. Will add JavaScript to my resume website. 
