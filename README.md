@@ -1,6 +1,6 @@
 # My Resume Website
 https://andrewsthebuilder.github.io/andrewspeter.github.io/
 
-## Future Commits
+## TODO
 1. Will add JavaScript to my resume website. 
-2. Possibly a Youtube API. 
+2. Ability to manipulate different color schemes for the website. 
