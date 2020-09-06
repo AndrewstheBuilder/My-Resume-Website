@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: #120458;
+    background-color: white;
     font-family: 'Oxygen', sans-serif;
     font-size: 18px;
     overflow: auto;
@@ -9,7 +9,7 @@ body{
 }
 
 .box {
-    background-color: #7a04eb;
+    background-color: white;
     margin-top: 5%;
     margin-bottom: 5%;
     padding-bottom: 4%;
@@ -21,38 +21,38 @@ body{
     font-weight: bold;
     font-size: 65px;
     text-align: center;
-    color: #ff00a0;
+    color: black;
 }
 
 #AboutMe{
-    color: #ff00a0;
+    color: black;
     font-weight: bold;
     font-size: 65px;
 }
 
 #ContactMe{
-    color: #ff00a0;
+    color: black;
     font-weight: bold;
     font-size: 65px;
     margin-bottom: 30px;
 }
 
 .body-text{
-    color: #fe75fe;
+    color: black;
     text-align: center;
 }
 
 .p2.subheading{
-    text-decoration: underline solid #fe75fe;
+    text-decoration: underline solid black;
     font-weight: bold;
     text-align: center;
     padding-top: 25px;
     font-size: 24px;
-    color: #ff00a0;
+    color: black;
 }
 
 nav{
-   background-color: #ff124f;
+   background-color: white;
 }
 
 nav a {
@@ -61,7 +61,7 @@ nav a {
 }
 
 .navbar-toggler{
-    border-color: #120458;
+    border-color: black;
 }
 
 .navbar-toggler-icon {
@@ -83,12 +83,12 @@ nav a {
 
 .horiz-line {
     line-height: 100px;
-    border-bottom: 2px solid #fe75fe;
+    border-bottom: 2px solid black;
 }
 
 .p2{
     padding: 4px;
-    color: #fe75fe;
+    color: black;
 }
 
 form{
