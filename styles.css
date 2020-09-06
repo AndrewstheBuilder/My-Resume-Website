@@ -102,12 +102,12 @@ form{
 }
 
 .fa:hover {
-    color: #211f1f;
+    color: grey;
     text-decoration: none;
 }
 
 .fa-github{
-    color: white;
+    color: black;
 }
 
 .company-name{
